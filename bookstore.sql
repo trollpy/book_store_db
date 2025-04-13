@@ -24,13 +24,13 @@ CREATE TABLE author (
     author_bio TEXT
 );
 
--- Create country table (independent table)
+-- Create country table (independent table) 
 CREATE TABLE country (
     country_id INT PRIMARY KEY AUTO_INCREMENT,
     country_name VARCHAR(100) NOT NULL
 );
 
--- Create address_status table (independent table)
+-- Create address_status table (independent table) 
 CREATE TABLE address_status (
     status_id INT PRIMARY KEY AUTO_INCREMENT,
     address_status VARCHAR(50) NOT NULL

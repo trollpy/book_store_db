@@ -61,7 +61,7 @@ Below is the ERD for the `bookstore` database, showcasing the relationships betw
 
 ## Database Schema
 
-![database ERD](ERD.drawio.png)
+![Entity-Relationship Diagram for the bookstore database](ERD.drawio.png)
 
 ---
 
@@ -89,13 +89,4 @@ This project is not just about managing a bookstore—it’s about redefining ho
 - Make informed decisions with real-time insights and analytics.
 
 ---
-
-## Why Now?
-
-The global book market is evolving rapidly, with increasing demand for efficient and customer-centric solutions. By investing in this project, you are positioning yourself at the forefront of this transformation. This database is the foundation for building a modern, data-driven bookstore that can compete and thrive in today’s market.
-
----
-
-We invite you to join us in bringing this vision to life. With your investment, we can take this project to the next level and revolutionize the bookstore industry.
-
 [def]: ERD.drawio.png
